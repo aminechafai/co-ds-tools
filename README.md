@@ -1,1 +1,3 @@
-# co-ds-tools
+# Data Scientist Toolbox
+## Coursera course
+
